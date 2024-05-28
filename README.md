@@ -32,6 +32,11 @@ My journey in sales and continous learning acumen has ignited a passion for clou
  <img src="https://img.shields.io/badge/-AWS%20Amplify-FF9900?style=for-the-badge&logo=AWS%20Amplify&logoColor=white"/>
  <img src="https://img.shields.io/badge/-CodePipeline-238636?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
  <img src="https://img.shields.io/badge/-Amazon%20EventBridge-FF9900?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/-EC2-FF9900?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/-EBS-FF9900?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/-VPC-FF9900?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CloudWatch-FF9900?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/-EFS-FF9900?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
 
 
 
