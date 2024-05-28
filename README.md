@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Ade
+<a href="https://linkedin.com/adedotun-arasi"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**AdeinCloud9/AdeinCloud9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+A motivated and detail-oriented technology enthusiast dedicated to solving complex problems. Certified AWS Cloud Quest Practitioner with hands-on experience in sales and account management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objective
+
+My journey in sales and continous learning acumen has ignited a passion for cloud computing. I am eager to transition into this field and aim to join AWS as an Intern.
+
+## Skills
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Cloud Infrastructure Design and Deployment         | AWS Skillbuilder |
+| Identity and Access Management (IAM) | AWS Skillbuilder |
+| Cloud Resource Optimization         | AWS Skillbuilder |
+| Cloud Configuration and Compliance Monitoring      | AWS Skillbuilder |
+| Cloud Incident Response                  | AWS Skillbuilder |
+| Cloud Performance Monitoring and Tuning  | AWS Skillbuilder |
+| Container Management | AWS Skillbuilder |
+| Serverless Computing | AWS Skillbuilder |
+
+## Tools
+
+### Cloud
+<div>
+ <img src="https://img.shields.io/badge/-Amazon%20S3-FF9900?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-IAM-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-API%20Gateway-FF4F8B?style=for-the-badge&logo=Amazon%20API%20Gateway&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-Amazon%20SES-4285F4?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-Lambda-FF9900?style=for-the-badge&logo=AWS%20Lambda&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-AWS%20Amplify-FF9900?style=for-the-badge&logo=AWS%20Amplify&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-CodePipeline-238636?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-Amazon%20EventBridge-FF9900?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
+
+
+
+
+## Certifications
+<div>
+  <img src="https://img.shields.io/badge/-Amazon%20Web%20Services%20(AWS)-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/-AWS%20Cloud%20Quest%3A%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/-DeepLearning.AI-4285F4?style=for-the-badge&logo=DeepLearning.AI&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Generative%20AI%20for%20Everyone-FF4F8B?style=for-the-badge&logo=DeepLearning.AI&logoColor=white"/>
+
+</div>
+
+## Projects
+- End-to-End AWS Web Application
+- Serverless Email Marketing Application
+- Game with a Continuous Deployment Pipeline from GitHub to S3
