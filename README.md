@@ -9,7 +9,6 @@ A motivated and detail-oriented technology enthusiast dedicated to solving compl
 My journey in sales and continous learning acumen has ignited a passion for cloud computing. I am eager to transition into this field and aim to join AWS as an Intern.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
