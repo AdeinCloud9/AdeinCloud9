@@ -12,8 +12,8 @@ My journey in sales and continous learning acumen has ignited a passion for clou
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Cloud Infrastructure Design and Deployment         | AWS Skillbuilder |
-| Identity and Access Management (IAM) | AWS Skillbuilder |
+| Cloud Infrastructure Design and Deployment         | <a href="https://github.com/AdeinCloud9/Serverless-Email-Marketing-Application/blob/main/README.md">Serverless Email Marketing Application</a> |
+| Identity and Access Management (IAM) | <a href="https://github.com/AdeinCloud9/End-to-End-AWS-Web-Application/blob/main/README.md">End-to-End AWS Web Application</a> |
 | Cloud Resource Optimization         | AWS Skillbuilder |
 | Cloud Configuration and Compliance Monitoring      | AWS Skillbuilder |
 | Cloud Incident Response                  | AWS Skillbuilder |
@@ -48,6 +48,5 @@ My journey in sales and continous learning acumen has ignited a passion for clou
 </div>
 
 ## Projects
-- End-to-End AWS Web Application
-- Serverless Email Marketing Application
-- Game with a Continuous Deployment Pipeline from GitHub to S3
+- <a href="https://github.com/AdeinCloud9/Serverless-Email-Marketing-Application/blob/main/README.md">Serverless Email Marketing Application</a>
+- <a href="https://github.com/AdeinCloud9/End-to-End-AWS-Web-Application/blob/main/README.md">End-to-End AWS Web Application</a>
