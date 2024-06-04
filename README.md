@@ -4,7 +4,7 @@
 A motivated and detail-oriented technology enthusiast dedicated to continuous learning and embracing new technologies, with a strong commitment to solving complex problems. Certified AWS Cloud Quest Practitioner with practical experience in sales and account management.
 ## Objective
 
-My journey in sales, customer success and continous learning acumen has ignited a passion for cloud computing. I am eager to transition into this field and aim to join AWS as an Intern.
+My journey in sales, customer success and continous learning acumen has ignited a passion for cloud computing. I am eager to transition into this field and get hands-on/ real life experience
 
 ## Skills
 
