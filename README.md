@@ -10,6 +10,7 @@ My journey in sales, customer success and continous learning acumen has ignited 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| OCI - Load and update Moviestream data in Oracle ADW        | 
 | Cloud Infrastructure Design and Deployment         | <a href="https://github.com/AdeinCloud9/Serverless-Email-Marketing-Application/blob/main/README.md">Serverless Email Marketing Application</a> |
 | Identity and Access Management (IAM) | <a href="https://github.com/AdeinCloud9/End-to-End-AWS-Web-Application/blob/main/README.md">End-to-End AWS Web Application</a> |
 | Cloud Resource Optimization         | AWS Skillbuilder |
