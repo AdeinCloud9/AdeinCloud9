@@ -55,5 +55,5 @@ My experience in sales, customer success, and continuous learning has ignited a 
 ## Projects
 - <a href="https://github.com/AdeinCloud9/Microsoft-Sentinel-Lab">Microsoft Sentinel</a> 
 - <a href="https://github.com/AdeinCloud9/-Load-and-update-Moviestream-data-in-Oracle-ADW/blob/main/README.md">Load-and-update-Moviestream-data-in-Oracle-ADW</a>
-- <a href="https://github.com/AdeinCloud9/Serverless-Email-Marketing-Application">Serverless Email Marketing Application</a>Serverless Email Marketing Application</a>
+- <a href="https://github.com/AdeinCloud9/Serverless-Email-Marketing-Application">Serverless Email Marketing Application</a>
 - <a href="https://github.com/AdeinCloud9/End-to-End-AWS-Web-Application/blob/main/README.md">End-to-End AWS Web Application</a>
