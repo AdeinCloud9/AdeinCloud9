@@ -1,7 +1,8 @@
 # Hi, I'm Ade
 <a href="https://www.linkedin.com/in/adedotun-arasi/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-A motivated and detail-oriented technology enthusiast dedicated to continuous learning and embracing new technologies, with a strong commitment to solving complex problems and practical experience in DevOps.
+A dedicated tech enthusiast with a strong focus on problem-solving and a practical background in DevOps. Continuously learning and adopting new technologies to enhance skills and expertise.
+
 ## Objective
 
 DevOps engineer with expertise in automating, configuring, deploying, and releasing instances, with a focus on data centres and cloud settings.
