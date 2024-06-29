@@ -1,10 +1,10 @@
 # Hi, I'm Ade
 <a href="https://www.linkedin.com/in/adedotun-arasi/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-A motivated and detail-oriented technology enthusiast dedicated to continuous learning and embracing new technologies, with a strong commitment to solving complex problems. Certified AWS Cloud Quest Practitioner with practical experience in sales and account management.
+A motivated and detail-oriented technology enthusiast dedicated to continuous learning and embracing new technologies, with a strong commitment to solving complex problems and practical experience in DevOps.
 ## Objective
 
-My experience in sales, customer success, and continuous learning has ignited a strong passion for cloud computing. I am enthusiastic about transitioning into this field and gaining hands-on, real-world experience.
+DevOps engineer with expertise in automating, configuring, deploying, and releasing instances, with a focus on data centres and cloud settings.
 
 ## Skills
 
