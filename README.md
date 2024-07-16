@@ -5,7 +5,7 @@ A dedicated tech enthusiast with a strong focus on problem-solving and a practic
 
 ## Objective
 
-DevOps engineer with expertise in automating, configuring, deploying, and releasing instances, with a focus on data centres and cloud settings.
+Cloud engineer with expertise in automating, configuring, deploying, and releasing instances, with a focus on data centres and cloud settings.
 
 ## Skills
 
