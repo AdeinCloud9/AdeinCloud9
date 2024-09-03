@@ -1,6 +1,4 @@
 # Hi, I'm Ade
-<a href="https://www.linkedin.com/in/adedotun-arasi/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
 A dedicated tech enthusiast with a strong focus on problem-solving and a practical background in DevOps. Continuously learning and adopting new technologies to enhance skills and expertise.
 
 ## Objective
